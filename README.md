@@ -11,7 +11,7 @@ An interactive 3D simulation of our solar system with realistic orbital mechanic
 - **Animation Controls**: Pause, resume, and speed adjustment
 - **Real Astronomical Data**: Actual planet sizes, distances, and periods
 - **Customizable Display**: Toggle orbits and labels
-
+![Demo Animation](./assets/demo.gif)
 ## Setup Instructions
 
 ### 1. Create Conda Environment
